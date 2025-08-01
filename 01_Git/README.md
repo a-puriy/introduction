@@ -74,7 +74,7 @@ __4. git merge__:
 ### SSH Keyの登録
 
 こちらを参考にGithubに公開鍵を登録してください
-- [GitHubでssh接続する手順~公開鍵・秘密鍵の生成から~](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
+- [GitHubにSSH鍵を追加する](https://qiita.com/floginal/items/32b60c495d2792f9bbdb)
 
 ### Gitユーザー名、メアド設定
 
